@@ -1,3 +1,3 @@
 # CardboardTest
 
-Meme meme meme
+cardboard game for science club
