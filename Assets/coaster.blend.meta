@@ -4,7 +4,21 @@ timeCreated: 1472957937
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: //RootNode
+    100004: Cylinder
+    400000: BezierCurve
+    400002: //RootNode
+    400004: Cylinder
+    2300000: BezierCurve
+    2300002: Cylinder
+    3300000: BezierCurve
+    3300002: Cylinder
+    4300000: BezierCurve
+    4300002: Cylinder
+    7400000: Default Take
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -12,7 +26,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleRotations: 1
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 

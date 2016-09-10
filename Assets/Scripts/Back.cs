@@ -23,7 +23,7 @@ public class Back : MonoBehaviour {
 		GameObject Object1 = GameObject.Find("Main Camera");
 		if (vr == false)
 		{
-			GameObject.Find("Main Camera").GetComponent<gyro>().enabled = true ;
+			//GameObject.Find("Main Camera").GetComponent<gyro>().enabled = true ;
 			//GameObject.Find("Dive_Camera").GetComponent<OpenDiveSensor>().enabled =false ;
 			GameObject.Find("Camera_left").GetComponent<Camera>().enabled =false ;
 		 GameObject.Find("Dive_Camera").transform.rotation=	GameObject.Find("Main Camera").transform.rotation;
