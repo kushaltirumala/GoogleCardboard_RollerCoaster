@@ -91,6 +91,7 @@
      <Compile Include="Assets\Scripts\box.cs" />
      <Compile Include="Assets\Scripts\gyrocamera1.cs" />
      <Compile Include="Assets\Scripts\intro.cs" />
+     <Compile Include="Assets\StartImage.cs" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
      <None Include="Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
