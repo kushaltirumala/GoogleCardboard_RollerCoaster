@@ -1,6 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
+Project("{CC271A32-95B2-DCE2-2A2E-EF178E7BE33F}") = "CardboardTest", "Assembly-CSharp-firstpass.csproj", "{D2C437C0-E278-EFF0-F5AC-160D2189D3C8}"
+EndProject
 Project("{CC271A32-95B2-DCE2-2A2E-EF178E7BE33F}") = "CardboardTest", "Assembly-CSharp.csproj", "{AEED5A2C-57D0-F7E3-2BD2-2EDF32AB99E7}"
 EndProject
 Project("{CC271A32-95B2-DCE2-2A2E-EF178E7BE33F}") = "CardboardTest", "Assembly-CSharp-Editor.csproj", "{B6835439-A128-3A9E-16EB-B747730AD6E1}"
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C437C0-E278-EFF0-F5AC-160D2189D3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C437C0-E278-EFF0-F5AC-160D2189D3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C437C0-E278-EFF0-F5AC-160D2189D3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C437C0-E278-EFF0-F5AC-160D2189D3C8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AEED5A2C-57D0-F7E3-2BD2-2EDF32AB99E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AEED5A2C-57D0-F7E3-2BD2-2EDF32AB99E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEED5A2C-57D0-F7E3-2BD2-2EDF32AB99E7}.Release|Any CPU.ActiveCfg = Release|Any CPU

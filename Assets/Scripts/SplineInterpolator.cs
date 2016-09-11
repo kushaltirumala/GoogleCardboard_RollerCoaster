@@ -46,6 +46,14 @@ public class SplineInterpolator : MonoBehaviour
 		SetInput();
 	}
 
+	public void stopState(){
+		mState = "Stopped";
+	}
+
+	public void continueState(){
+		mState = "Loop";
+	}
+
 	public void Reset()
 	{
 		mNodes.Clear();
