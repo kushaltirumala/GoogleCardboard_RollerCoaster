@@ -9,7 +9,8 @@ function Start(){
 
 // you can then access the different AudioSources using the variables you've set:
 function OnTriggerEnter (collision:Collider) {
-	
+    Debug.Log("auddiooo");
+	Debug.Log(collision.gameObject.name);
 	if(collision.gameObject.name =="Top"){
 	audio2.Play();
     audio1.Stop();
