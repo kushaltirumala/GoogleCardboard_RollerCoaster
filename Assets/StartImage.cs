@@ -7,10 +7,13 @@ public class StartImage : MonoBehaviour {
 	SplineInterpolator cart;
 	public float timeStopped = 2f;
 	public GameObject otherObject;
+	public GameObject otherObject2;
 	Animator animator;
+	Animator animator2;
 	// Use this for initialization
 	void Start () {
 		animator = otherObject.GetComponent<Animator> ();
+		animator2 = otherObject2.GetComponent<Animator> ();
 	}
 	
 	// Update is called once per frame
@@ -29,6 +32,7 @@ public class StartImage : MonoBehaviour {
 				Debug.Log ("YESSS");
 				//Application.LoadLevel("EndScene");
 				animator.SetTrigger("GameOver");
+				animator2.SetTrigger("GameOver");
 				Debug.Log ("animation played");
 			}
 
