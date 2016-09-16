@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- blaze-out/arm-linux-androideabi-4.8-bionic-libcxx-armv7a-opt/genfiles/vr/gvr/platform/common/android/res/values-ro/strings.xml -->
+<eat-comment/>
+<string name="back_button_content_description" msgid="7991510501576515350">"înapoi"</string>
+<string name="cancel_button" msgid="5437310423659570107">"Anulați"</string>
+<string name="dialog_message_no_cardboard" msgid="8936160057500596687">"Descărcați aplicația Cardboard pentru a vă configura vizualizatorul."</string>
+<string name="dialog_message_setup" msgid="6627029590803109915">"Configurați-vă vizualizatorul pentru o utilizare optimă."</string>
+<string name="dialog_title" msgid="3248614679403583554">"Configurați"</string>
+<string name="dialog_title_warning" msgid="64877516357481593">"Avertisment"</string>
+<string name="dialog_vr_core_not_enabled" msgid="5792956538580418330">"E posibil ca această aplicație să nu funcționeze corespunzător dacă nu activați Serviciile VR de la Google. Activați-le din setările telefonului înainte de a continua."</string>
+<string name="dialog_vr_core_not_installed" msgid="2625827230415478591">"E posibil ca această aplicație să nu funcționeze corespunzător fără Serviciile VR de la Google. Instalați Serviciile VR de la Google din Magazinul Play înainte de a continua."</string>
+<string name="go_to_playstore_button" msgid="8365361659814172105">"Accesați Magazinul Play"</string>
+<string name="go_to_vr_listeners_settings_button" msgid="7232070790833049562">"Accesați Setări"</string>
+<string name="no_browser_text" msgid="4242663779247493666">"Niciun browser pentru a deschide site-ul"</string>
+<string name="place_your_phone_into_cardboard" msgid="3033913737471886041">"Puneți telefonul în vizualizatorul Cardboard"</string>
+<string name="place_your_viewer_into_viewer_format" msgid="8644661894594395876">"Puneți telefonul în vizualizatorul <xliff:g id="VIEWER_NAME">%s</xliff:g>."</string>
+<string name="settings_button_content_description" msgid="7565578605458926311">"setări"</string>
+<string name="setup_button" msgid="1112346456654686733">"Configurați"</string>
+<string name="switch_viewer_action" msgid="1762411366348526647">"Comutați"</string>
+<string name="switch_viewer_prompt" msgid="4518576606713444785">"Alt vizualizator?"</string>
+</resources>

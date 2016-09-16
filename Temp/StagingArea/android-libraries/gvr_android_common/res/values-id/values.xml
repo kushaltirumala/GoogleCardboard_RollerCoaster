@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- blaze-out/arm-linux-androideabi-4.8-bionic-libcxx-armv7a-opt/genfiles/vr/gvr/platform/common/android/res/values-id/strings.xml -->
+<eat-comment/>
+<string name="back_button_content_description" msgid="7991510501576515350">"kembali"</string>
+<string name="cancel_button" msgid="5437310423659570107">"Batal"</string>
+<string name="dialog_message_no_cardboard" msgid="8936160057500596687">"Dapatkan aplikasi Cardboard untuk mengonfigurasikan penampil Anda."</string>
+<string name="dialog_message_setup" msgid="6627029590803109915">"Siapkan penampil Anda untuk pengalaman terbaik."</string>
+<string name="dialog_title" msgid="3248614679403583554">"Konfigurasikan"</string>
+<string name="dialog_title_warning" msgid="64877516357481593">"Peringatan"</string>
+<string name="dialog_vr_core_not_enabled" msgid="5792956538580418330">"Aplikasi ini mungkin tidak bekerja dengan benar tanpa mengaktifkan Layanan Google VR. Aktifkan Layanan Google VR di Setelan ponsel sebelum melanjutkan."</string>
+<string name="dialog_vr_core_not_installed" msgid="2625827230415478591">"Aplikasi ini mungkin tidak bekerja dengan benar tanpa Layanan Google VR. Pasang Layanan Google VR dari Play Store sebelum melanjutkan."</string>
+<string name="go_to_playstore_button" msgid="8365361659814172105">"Buka Play Store"</string>
+<string name="go_to_vr_listeners_settings_button" msgid="7232070790833049562">"Buka Setelan"</string>
+<string name="no_browser_text" msgid="4242663779247493666">"Tidak ada browser untuk membuka situs web"</string>
+<string name="place_your_phone_into_cardboard" msgid="3033913737471886041">"Tempatkan ponsel ke penampil Cardboard Anda"</string>
+<string name="place_your_viewer_into_viewer_format" msgid="8644661894594395876">"Tempatkan ponsel ke dalam penampil <xliff:g id="VIEWER_NAME">%s</xliff:g>"</string>
+<string name="settings_button_content_description" msgid="7565578605458926311">"setelan"</string>
+<string name="setup_button" msgid="1112346456654686733">"Siapkan"</string>
+<string name="switch_viewer_action" msgid="1762411366348526647">"Alihkan"</string>
+<string name="switch_viewer_prompt" msgid="4518576606713444785">"Pakai penampil lain?"</string>
+</resources>

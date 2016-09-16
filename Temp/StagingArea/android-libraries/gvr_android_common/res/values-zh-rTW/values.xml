@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- blaze-out/arm-linux-androideabi-4.8-bionic-libcxx-armv7a-opt/genfiles/vr/gvr/platform/common/android/res/values-zh-rTW/strings.xml -->
+<eat-comment/>
+<string name="back_button_content_description" msgid="7991510501576515350">"返回"</string>
+<string name="cancel_button" msgid="5437310423659570107">"取消"</string>
+<string name="dialog_message_no_cardboard" msgid="8936160057500596687">"取得 Cardboard 應用程式，以便設定您的觀影盒。"</string>
+<string name="dialog_message_setup" msgid="6627029590803109915">"調整您的觀影盒設定以享有最佳使用體驗。"</string>
+<string name="dialog_title" msgid="3248614679403583554">"設定"</string>
+<string name="dialog_title_warning" msgid="64877516357481593">"警告"</string>
+<string name="dialog_vr_core_not_enabled" msgid="5792956538580418330">"您必須先啟用 Google VR 服務，這個應用程式才能正常運作。如要繼續，請在手機的「設定」中啟用這項服務。"</string>
+<string name="dialog_vr_core_not_installed" msgid="2625827230415478591">"這個應用程式必須搭配 Google VR 服務才能正常運作。如要繼續，請前往 Play 商店安裝 Google VR 服務。"</string>
+<string name="go_to_playstore_button" msgid="8365361659814172105">"前往 Play 商店"</string>
+<string name="go_to_vr_listeners_settings_button" msgid="7232070790833049562">"前往「設定」"</string>
+<string name="no_browser_text" msgid="4242663779247493666">"沒有可開啟網站的瀏覽器"</string>
+<string name="place_your_phone_into_cardboard" msgid="3033913737471886041">"將您的手機放入 Cardboard 觀影盒中。"</string>
+<string name="place_your_viewer_into_viewer_format" msgid="8644661894594395876">"將您的手機放入 <xliff:g id="VIEWER_NAME">%s</xliff:g> 檢視器中"</string>
+<string name="settings_button_content_description" msgid="7565578605458926311">"設定"</string>
+<string name="setup_button" msgid="1112346456654686733">"設定"</string>
+<string name="switch_viewer_action" msgid="1762411366348526647">"切換"</string>
+<string name="switch_viewer_prompt" msgid="4518576606713444785">"要使用不同的檢視器嗎？"</string>
+</resources>

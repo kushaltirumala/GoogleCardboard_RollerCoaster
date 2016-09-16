@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- blaze-out/arm-linux-androideabi-4.8-bionic-libcxx-armv7a-opt/genfiles/vr/gvr/platform/common/android/res/values-iw/strings.xml -->
+<eat-comment/>
+<string name="back_button_content_description" msgid="7991510501576515350">"הקודם"</string>
+<string name="cancel_button" msgid="5437310423659570107">"ביטול"</string>
+<string name="dialog_message_no_cardboard" msgid="8936160057500596687">"‏עליך להוריד את אפליקציית Cardboard כדי להגדיר את מכשיר הצפייה."</string>
+<string name="dialog_message_setup" msgid="6627029590803109915">"הגדר את מכשיר הצפייה כדי ליהנות מהחוויה הטובה ביותר."</string>
+<string name="dialog_title" msgid="3248614679403583554">"הגדרה"</string>
+<string name="dialog_title_warning" msgid="64877516357481593">"אזהרה"</string>
+<string name="dialog_vr_core_not_enabled" msgid="5792956538580418330">"‏ייתכן שהאפליקציה לא תפעל כהלכה ללא שירותי VR של Google. כדי להמשיך, הפעל אותם בהגדרות הטלפון."</string>
+<string name="dialog_vr_core_not_installed" msgid="2625827230415478591">"‏ייתכן שהאפליקציה לא תפעל כהלכה ללא שירותי VR של Google. כדי להמשיך, התקן את שירותי VR של Google מחנות Play."</string>
+<string name="go_to_playstore_button" msgid="8365361659814172105">"‏עבור לחנות Play"</string>
+<string name="go_to_vr_listeners_settings_button" msgid="7232070790833049562">"עבור ל\'הגדרות\'"</string>
+<string name="no_browser_text" msgid="4242663779247493666">"אין דפדפן שיכול לפתוח את האתר"</string>
+<string name="place_your_phone_into_cardboard" msgid="3033913737471886041">"‏הנח את הטלפון במכשיר הצפייה של Cardboard"</string>
+<string name="place_your_viewer_into_viewer_format" msgid="8644661894594395876">"הנח את הטלפון במכשיר הצפייה <xliff:g id="VIEWER_NAME">%s</xliff:g>"</string>
+<string name="settings_button_content_description" msgid="7565578605458926311">"הגדרות"</string>
+<string name="setup_button" msgid="1112346456654686733">"הגדר"</string>
+<string name="switch_viewer_action" msgid="1762411366348526647">"החלף"</string>
+<string name="switch_viewer_prompt" msgid="4518576606713444785">"משתמש במכשיר שונה?"</string>
+</resources>

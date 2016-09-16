@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- blaze-out/arm-linux-androideabi-4.8-bionic-libcxx-armv7a-opt/genfiles/vr/gvr/platform/common/android/res/values-da/strings.xml -->
+<eat-comment/>
+<string name="back_button_content_description" msgid="7991510501576515350">"tilbage"</string>
+<string name="cancel_button" msgid="5437310423659570107">"Annuller"</string>
+<string name="dialog_message_no_cardboard" msgid="8936160057500596687">"Hent Cardboard-appen, før du kan konfigurere fremviseren."</string>
+<string name="dialog_message_setup" msgid="6627029590803109915">"Konfigurer din fremviser for at få den bedste oplevelse."</string>
+<string name="dialog_title" msgid="3248614679403583554">"Konfigurer"</string>
+<string name="dialog_title_warning" msgid="64877516357481593">"Advarsel"</string>
+<string name="dialog_vr_core_not_enabled" msgid="5792956538580418330">"Denne applikation virker muligvis ikke korrekt, hvis Google VR-tjenester ikke er aktiveret. Aktivér Google VR-tjenester under Indstillinger på din telefon, inden du går videre."</string>
+<string name="dialog_vr_core_not_installed" msgid="2625827230415478591">"Denne applikation virker muligvis ikke korrekt uden Google VR-tjenester. Installer Google VR-tjenester, inden du går videre."</string>
+<string name="go_to_playstore_button" msgid="8365361659814172105">"Gå til Play Butik"</string>
+<string name="go_to_vr_listeners_settings_button" msgid="7232070790833049562">"Gå til Indstillinger"</string>
+<string name="no_browser_text" msgid="4242663779247493666">"Der er ingen browser til at åbne websitet"</string>
+<string name="place_your_phone_into_cardboard" msgid="3033913737471886041">"Placer din telefon i Cardboard-fremviseren"</string>
+<string name="place_your_viewer_into_viewer_format" msgid="8644661894594395876">"Placer din telefon til din <xliff:g id="VIEWER_NAME">%s</xliff:g>-fremviser"</string>
+<string name="settings_button_content_description" msgid="7565578605458926311">"indstillinger"</string>
+<string name="setup_button" msgid="1112346456654686733">"Konfigurer"</string>
+<string name="switch_viewer_action" msgid="1762411366348526647">"Skift"</string>
+<string name="switch_viewer_prompt" msgid="4518576606713444785">"Skift fremviser?"</string>
+</resources>

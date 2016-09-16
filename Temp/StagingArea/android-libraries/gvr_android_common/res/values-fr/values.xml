@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- blaze-out/arm-linux-androideabi-4.8-bionic-libcxx-armv7a-opt/genfiles/vr/gvr/platform/common/android/res/values-fr/strings.xml -->
+<eat-comment/>
+<string name="back_button_content_description" msgid="7991510501576515350">"retour"</string>
+<string name="cancel_button" msgid="5437310423659570107">"Annuler"</string>
+<string name="dialog_message_no_cardboard" msgid="8936160057500596687">"Téléchargez l\'application Cardboard afin de configurer votre visionneuse."</string>
+<string name="dialog_message_setup" msgid="6627029590803109915">"Pour profiter pleinement de l\'application, configurez votre visionneuse."</string>
+<string name="dialog_title" msgid="3248614679403583554">"Configurer"</string>
+<string name="dialog_title_warning" msgid="64877516357481593">"Avertissement"</string>
+<string name="dialog_vr_core_not_enabled" msgid="5792956538580418330">"Cette application risque de ne pas fonctionner correctement si les services de RV de Google ne sont pas activés. Avant de continuer, veuillez activer ces services dans les paramètres de votre téléphone."</string>
+<string name="dialog_vr_core_not_installed" msgid="2625827230415478591">"Cette application risque de ne pas fonctionner correctement sans les services de RV de Google. Avant de continuer, veuillez installer les services de RV de Google depuis le Play Store."</string>
+<string name="go_to_playstore_button" msgid="8365361659814172105">"Accéder au Play Store"</string>
+<string name="go_to_vr_listeners_settings_button" msgid="7232070790833049562">"Accéder aux paramètres"</string>
+<string name="no_browser_text" msgid="4242663779247493666">"Pas de navigateur pour ouvrir le site Web"</string>
+<string name="place_your_phone_into_cardboard" msgid="3033913737471886041">"Placez le téléphone dans la visionneuse Cardboard."</string>
+<string name="place_your_viewer_into_viewer_format" msgid="8644661894594395876">"Placez votre téléphone dans votre visionneuse <xliff:g id="VIEWER_NAME">%s</xliff:g>."</string>
+<string name="settings_button_content_description" msgid="7565578605458926311">"paramètres"</string>
+<string name="setup_button" msgid="1112346456654686733">"Configurer"</string>
+<string name="switch_viewer_action" msgid="1762411366348526647">"Changer"</string>
+<string name="switch_viewer_prompt" msgid="4518576606713444785">"Vous utilisez une autre visionneuse ?"</string>
+</resources>

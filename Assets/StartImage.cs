@@ -3,14 +3,14 @@ using System.Collections;
 
 public class StartImage : MonoBehaviour {
 
-	public GameObject image;
-	public GameObject text;
+	public GameObject thisObject;
 	SplineInterpolator cart;
 	public float timeStopped = 2f;
-
+	public GameObject otherObject;
+	Animator animator;
 	// Use this for initialization
 	void Start () {
-	
+		animator = otherObject.GetComponent<Animator> ();
 	}
 	
 	// Update is called once per frame
@@ -19,21 +19,24 @@ public class StartImage : MonoBehaviour {
 	}
 
 	void OnTriggerEnter(Collider other){
-		Debug.Log("asdf");
 		Debug.Log (other.ToString ());
 
 		if(other.GetComponent(typeof(SplineInterpolator))) {
-			Debug.Log ("here");
 			SplineInterpolator temp = (SplineInterpolator)other.GetComponent (typeof(SplineInterpolator));
 			cart = temp;
 			temp.stopState ();
-			Debug.Log ("done?");
+			if (thisObject.name ==("endTrigger")) {
+				Debug.Log ("YESSS");
+				//Application.LoadLevel("EndScene");
+				animator.SetTrigger("GameOver");
+				Debug.Log ("animation played");
+			}
+
 			Invoke ("continueRolling", timeStopped);
 			
 		}
-}
+	}
 	void continueRolling(){
-		Debug.Log ("continuing on the roller coaster");
 		cart.continueState ();
 	}
 }

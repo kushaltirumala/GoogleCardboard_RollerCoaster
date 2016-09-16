@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding='utf-8' standalone='no'?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- blaze-out/arm-linux-androideabi-4.8-bionic-libcxx-armv7a-opt/genfiles/vr/gvr/platform/common/android/res/values-lv/strings.xml -->
+<eat-comment/>
+<string name="back_button_content_description" msgid="7991510501576515350">"atpakaļ"</string>
+<string name="cancel_button" msgid="5437310423659570107">"Atcelt"</string>
+<string name="dialog_message_no_cardboard" msgid="8936160057500596687">"Lai konfigurētu savu skatītāju, instalējiet lietotni Cardboard."</string>
+<string name="dialog_message_setup" msgid="6627029590803109915">"Vislabākajiem rezultātiem iestatiet skatītāju."</string>
+<string name="dialog_title" msgid="3248614679403583554">"Konfigurēšana"</string>
+<string name="dialog_title_warning" msgid="64877516357481593">"Brīdinājums"</string>
+<string name="dialog_vr_core_not_enabled" msgid="5792956538580418330">"Šī lietojumprogramma var nedarboties pareizi bez Google VR pakalpojumu iespējošanas. Lai turpinātu, lūdzu, iespējojiet tos tālruņa iestatījumu sadaļā."</string>
+<string name="dialog_vr_core_not_installed" msgid="2625827230415478591">"Šī lietojumprogramma var nedarboties pareizi bez Google VR pakalpojumiem. Lai turpinātu, lūdzu, instalējiet Google VR pakalpojumus no Play veikala."</string>
+<string name="go_to_playstore_button" msgid="8365361659814172105">"Pāriet uz Play veikalu"</string>
+<string name="go_to_vr_listeners_settings_button" msgid="7232070790833049562">"Pāriet uz iestatījumiem"</string>
+<string name="no_browser_text" msgid="4242663779247493666">"Nav pārlūkprogrammas, lai atvērtu vietni."</string>
+<string name="place_your_phone_into_cardboard" msgid="3033913737471886041">"Novietojiet tālruni uz Cardboard skatītāja."</string>
+<string name="place_your_viewer_into_viewer_format" msgid="8644661894594395876">"Ievietojiet savu tālruni <xliff:g id="VIEWER_NAME">%s</xliff:g> skatītājā"</string>
+<string name="settings_button_content_description" msgid="7565578605458926311">"iestatījumi"</string>
+<string name="setup_button" msgid="1112346456654686733">"Iestatīt"</string>
+<string name="switch_viewer_action" msgid="1762411366348526647">"Pārslēgt"</string>
+<string name="switch_viewer_prompt" msgid="4518576606713444785">"Vai cits skatītājs?"</string>
+</resources>
